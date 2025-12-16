@@ -1,8 +1,9 @@
-# Free AI Learning Resources
+# Ücretsiz Yapay Zeka Öğrenme Kaynakları
 
-A curated list of free AI learning resources, organized by category. Contributions are welcome!
 
-## Categories
+Kategorilere göre düzenlenmiş, özenle seçilmiş ücretsiz Yapay Zeka öğrenme kaynakları listesi. Katkılarınızı bekliyoruz!
+
+## Katogoriler
 
 - [Generative AI](resources/generative-ai.md)
 - [Prompt Engineering](resources/prompt-engineering.md)
@@ -12,6 +13,6 @@ A curated list of free AI learning resources, organized by category. Contributio
 - [Natural Language Processing (NLP)](resources/nlp.md)
 - [Data Science](resources/data-science.md)
 
-## How to Contribute
+## Nasıl Ortak Olurum
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+Buraya bak [CONTRIBUTING.md](CONTRIBUTING.md).
